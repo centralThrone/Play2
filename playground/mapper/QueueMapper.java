@@ -1,7 +1,7 @@
-package com.play.mapper;
+package com.playground.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.play.entity.Queue;
+import com.playground.entity.Queue;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 @ResponseBody

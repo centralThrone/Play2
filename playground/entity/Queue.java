@@ -1,4 +1,4 @@
-package com.play.entity;
+package com.playground.entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
